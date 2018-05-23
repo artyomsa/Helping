@@ -3,5 +3,5 @@
 3. Вероятнее всего не будет хватать пакета geopandas и pysal, 
    для их утсановки в cmd необходимо выполнить следующие команды:
    pip install geopandas
-   pip in
+   pip install pysal
 4. Далее необходимо запусить jupyter notebook
